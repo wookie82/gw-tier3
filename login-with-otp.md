@@ -1,5 +1,11 @@
 # Login with OTP
 
+## Login Node&#x20;
+
+gw-ui01.sdfarm.kr
+
+
+
 ## Accessing via Terminal on Linux or Mac
 
 To connect to the GSDC UI server using a terminal on Linux or Mac after setting up OTP, you need to undergo two authentication steps.&#x20;

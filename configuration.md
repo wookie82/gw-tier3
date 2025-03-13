@@ -12,7 +12,9 @@ Enter password for 'sangwook.bae' on login.ligo.org: $
 
 ex>&#x20;
 
-$ htgettoken -a vault.ligo.org -i igwn Attempting OIDC authentication with https://vault.ligo.org:8200
+$ [https://vault.ligo.org:8200](https://vault.ligo.org:8200)
+
+htgettoken -a vault.ligo.org -i igwn Attempting OIDC authentication with https://vault.ligo.org:8200
 
 Complete the authentication at:
 
