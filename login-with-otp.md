@@ -39,9 +39,9 @@ Last login: [last login details]
 [test_ipa@[UI] ~]$
 ```
 
-##
 
-##
+
+
 
 ## Connecting via MobaXterm on Windows
 
